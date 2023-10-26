@@ -1,0 +1,23 @@
+body{
+  color: white;
+  background-color: #709BFF;
+}
+
+.cam {
+    border: 2px dashed #000;
+    width: 350px;
+    height: 300px;
+    margin: auto;
+}
+
+h1 {
+  width: fit-content;
+}
+
+.card {
+  width: fit-content;
+}
+
+#controles {
+  display: none;
+}
